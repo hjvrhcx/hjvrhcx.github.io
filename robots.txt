@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hjvrhcx.github.io/sitemap.html.gz
+Sitemap: https://hjvrhcx.github.io/app/sitemap.html.gz
+Sitemap: https://hjvrhcx.github.io/assets/sitemap.html.gz
+Sitemap: https://hjvrhcx.github.io/css/sitemap.html.gz
+Sitemap: https://hjvrhcx.github.io/data/sitemap.html.gz
+Sitemap: https://hjvrhcx.github.io/includes/sitemap.html.gz
+Sitemap: https://hjvrhcx.github.io/item/sitemap.html.gz
+Sitemap: https://hjvrhcx.github.io/src/sitemap.html.gz
